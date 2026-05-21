@@ -1,0 +1,6 @@
+Ide keruljon a publikus GitHub repository linkje.
+
+Pelda:
+https://github.com/felhasznalonev/autokolcsonzo-rendszer
+
+Megjegyzes: a vegleges beadashoz ezt Word dokumentumkent, NEPTUNKOD.docx neven kell elmenteni.
